@@ -1,0 +1,4 @@
+.login-alert .MuiSnackbarContent-root{
+    background-color: #d32f2f !important; 
+    display: flex;
+}
